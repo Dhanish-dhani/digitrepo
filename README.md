@@ -74,4 +74,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The MNIST dataset creators for providing the benchmark dataset.
 - The scikit-learn community for the comprehensive documentation and tools.
 - All contributors to this repository for their efforts in improving the project.
-
