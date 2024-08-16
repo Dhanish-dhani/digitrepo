@@ -9,7 +9,6 @@ Welcome to the Handwritten Digit Prediction project! This repository contains a 
 - [Usage](#usage)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
